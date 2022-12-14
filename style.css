@@ -7,22 +7,40 @@ body {
   );
 }
 .container-1 {
+  width: 80px;
+  height: 80px;
   background-color: rgb(90, 85, 134);
   border: 1px solid #fff;
   border-radius: 2px;
+  padding: 2px;
 }
 .container-2 {
+  width: 80px;
+  height: 80px;;
   background-color: rgb(113, 105, 156);
   border: 1px solid #fff;
   border-radius: 2px;
+  padding: 2px;
 }
 .container-3 {
+  width: 80px;
+  height: 80px;
   background-color: rgb(44, 46, 90);
   border: 1px solid #fff;
   border-radius: 2px;
+  padding: 2px;
+  
 }
 .container {
   color: #fff;
-  
   display: flex;/*Para identificar que a teg container vai ser o elemento do flexbox*/
+  flex-direction: row;
+  justify-content: center;
+  height: 500px;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: center;
+  row-gap: 10px;
+  column-gap: 30px;
+
 }
