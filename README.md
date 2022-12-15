@@ -1,5 +1,5 @@
 # FLEXBOX CSS
-Estudando e conhecendo alguns elementos do flexboss no CSS.
+Estudando e conhecendo alguns elementos do flexbox no CSS.
 
 ## Antes de adicionar o flexbox
 
