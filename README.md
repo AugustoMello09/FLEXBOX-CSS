@@ -1,7 +1,7 @@
-# FLEXBOSS CSS
+# FLEXBOX CSS
 Estudando e conhecendo alguns elementos do flexboss no CSS.
 
-## Antes de adicionar o flexboss
+## Antes de adicionar o flexbox
 
 Originalmente antes de adicionar qualquer elemento no  nosso texto ele por padrão vem nesse formato.
 
